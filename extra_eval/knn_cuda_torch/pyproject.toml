@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "knn_cuda"
+version = "0.2+torch"
+description = "Drop-in torch replacement of unlimblue/KNN_CUDA (repository and wheel no longer online)"
+
+[tool.setuptools]
+packages = ["knn_cuda"]

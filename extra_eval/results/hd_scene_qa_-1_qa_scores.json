@@ -1,0 +1,1 @@
+"[BLEU-1] Mean: 0.3915, Max: 1.0000, Min: 0.0000\n[BLEU-2] Mean: 0.2951, Max: 1.0000, Min: 0.0000\n[BLEU-3] Mean: 0.2151, Max: 1.0000, Min: 0.0000\n[BLEU-4] Mean: 0.1649, Max: 1.0000, Min: 0.0000\n[CIDEr] Mean: 1.1632, Max: 10.0000, Min: 0.0000\n[ROUGE-L] Mean: 0.3806, Max: 1.0000, Min: 0.0000\n[METEOR] Mean: 0.1923, Max: 1.0000, Min: 0.0000"

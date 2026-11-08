@@ -171,3 +171,9 @@ vis
 .nv
 .vscode
 Pointnet2_PyTorch
+# reproduction (extra_eval)
+deps
+env.sh
+log/
+extra_eval/*.sbatch
+eval_outputs/
