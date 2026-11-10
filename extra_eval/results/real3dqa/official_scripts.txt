@@ -1,0 +1,26 @@
+
+[LSceneLLM] Loading and evaluating predictions...
+
+=======================================================
+ LSceneLLM — Accuracy Scores (1485 questions)
+=======================================================
+      Exact Match (EM)      Refined EM (Relaxed)
+                 20.27%                    25.25%
+=======================================================
+
+
+
+[LSceneLLM] Loading predictions...
+  extra_eval/results/real3dqa/pred_rotation_0.json: 750 questions
+  extra_eval/results/real3dqa/pred_rotation_90.json: 750 questions
+  extra_eval/results/real3dqa/pred_rotation_180.json: 750 questions
+  extra_eval/results/real3dqa/pred_rotation_270.json: 750 questions
+  [Auto-Detect] Rotation suffixes detected (e.g., '01', '02', '03'). Stripping automatically...
+
+============================================================
+ LSceneLLM — Rotation Consistency Score (750 valid questions)
+============================================================
+       One      Two    Three     Four      VRS
+      42.3      9.5      1.6      0.3     13.4
+============================================================
+

@@ -1,0 +1,6752 @@
+[
+ {
+  "question_id": 22060200058103,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "office chair",
+  "prompt": "I am positioned with the cabinet on my left and the office chair on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200085603,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "monitor"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the wall with the window on my right side. If I were to walk straight backwards, what would I hit?"
+ },
+ {
+  "question_id": 22060200129303,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "file cabinet"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing in the room with the window-lined wall on my left and the trash can\u00a0on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200149303,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with the door to my right and the desk on my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200183803,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "window,",
+  "prompt": "I am standing with a windowsill on my left and a door on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200211203,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am sitting in an office chair with the wall on my left and the monitors on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200228003,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with a desk on my left and a file cabinet on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200257603,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am facing the shelf and couch with the door on my right. In which direction should I walk to find a book?"
+ },
+ {
+  "question_id": 22060200264203,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "black keyboard",
+  "prompt": "I have a monitor on my right side and a shelf behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200304503,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the wall with the door on my right. If I move straight backwards, what is the first object I will hit?"
+ },
+ {
+  "question_id": 22060200440803,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "yes"
+  ],
+  "response_pred": "no",
+  "prompt": "I'm facing the couch while noticing the desk area on my right. Is there a door in front of me?"
+ },
+ {
+  "question_id": 22060200967503,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "to my right"
+  ],
+  "response_pred": "left",
+  "prompt": "I am noticing a couch in front of me while the door is on my left. In which direction are the headphones?"
+ },
+ {
+  "question_id": 22060201031903,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am facing the shelf with the door on my right side. In which direction can I find the fan?"
+ },
+ {
+  "question_id": 22060201175103,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "file cabinet",
+  "prompt": "I am facing the box with the trash can on my left. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201194503,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "monitor"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the door with the couch on my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201220003,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "to left",
+  "prompt": "I am positioned with the window behind me and the couch on my right. Where is the fan located relative to me?"
+ },
+ {
+  "question_id": 22060201296703,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "black chair",
+  "prompt": "I am facing the desk with the couch on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201355303,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "to my right"
+  ],
+  "response_pred": "on top of desk",
+  "prompt": "I am facing the cabinet with the pillow to my left. Where are the computers located?"
+ },
+ {
+  "question_id": 22060201439203,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am positioned such that the office chair is behind me\u00a0and the monitor in on my right. In which direction is the exit door?"
+ },
+ {
+  "question_id": 22060201840103,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "file cabinet"
+  ],
+  "response_pred": "file cabinet",
+  "prompt": "I am facing the shelf with the trash can behind me. What is closest on the floor to my right?"
+ },
+ {
+  "question_id": 22060201874203,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I have the entry door on my right and the trash cans to my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201938103,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "door",
+  "prompt": "I am sitting on the couch facing the fan with the file cabinet on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202001203,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "trash cans"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am positioned with the window on my right side and the wall behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202030103,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am facing the couch with the window on my right. What direction should I walk to reach the door?"
+ },
+ {
+  "question_id": 22060202188703,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "telephone"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the wall with the window on my right. What is situated closest behind me?"
+ },
+ {
+  "question_id": 22060202282903,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am positioned with the door on my left and the window on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060202333503,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "facing window",
+  "prompt": "I am facing the shelf with the file cabinet on my left. What direction is the office chair near the window?"
+ },
+ {
+  "question_id": 22060202470403,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "file cabinet"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the shelf with the couch on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060202484703,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "a couch and a shelf"
+  ],
+  "response_pred": "desk",
+  "prompt": "The entrance door is on my right side and the windows are on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202831003,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "monitor",
+  "prompt": "I have a fan behind me and a desk to my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202952403,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "behind"
+  ],
+  "response_pred": "straight ahead",
+  "prompt": "I am facing the desk with the shelf on my right. In which direction is the exit door?"
+ },
+ {
+  "question_id": 22060202966303,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned with a desk on my right and a wall on my left. What is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060203159403,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "fan"
+  ],
+  "response_pred": "monitor",
+  "prompt": "I am positioned towards the door with the cabinet on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060203332403,
+  "scene_id": "scene0025_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with the door on my right and the window behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200055803,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "laptop"
+  ],
+  "response_pred": "piano",
+  "prompt": "I am in the armchair facing the roomba on the floor with the piano on my right. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060200099803,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "roomba"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I am standing with the doorframe on my left and the armchair on my right. What object is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200178503,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "laptop"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the doors with the couch to my left. What is the primary object located closest to my right?"
+ },
+ {
+  "question_id": 22060200247403,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "piano"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the roomba with the armchair on my left side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200321703,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "table",
+  "prompt": "I have the stool behind me and the printer to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200394703,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "to my left"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am facing the chair with the printer on my right. In which direction from my current position is the stool?"
+ },
+ {
+  "question_id": 22060200417903,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned such that the roomba is on my left side and the couch is on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200434103,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "doors"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing such that the couch is to my right and the armchair is to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200463403,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "piano"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am positioned with the doors to my left and the armchair to my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200539203,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "doors"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am staring at the roomba while noticing the armchair on my left side. What object is located to my immediate right?"
+ },
+ {
+  "question_id": 22060200698203,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "piano"
+  ],
+  "response_pred": "piano,",
+  "prompt": "I am positioned on the piano bench facing the clock with the chair on my right. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060201161903,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "above piano",
+  "prompt": "I am standing with the couch on my right side and the piano on my left. In which direction is the wall clock located?"
+ },
+ {
+  "question_id": 22060201231703,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "toolbox"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I am sitting with the chair in front of me and the couch on my left. What object is located closest behind me?"
+ },
+ {
+  "question_id": 22060201291403,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "toolbox"
+  ],
+  "response_pred": "end table",
+  "prompt": "I am looking at the couch with the chair on my right side. What is closest on the floor to my left?"
+ },
+ {
+  "question_id": 22060201308903,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "toolbox"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the doorframe with the laptop on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201365203,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "doorframe"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the roomba with the couch on my right. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060201557903,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing with the armchair on my right and the couch on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201639003,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "door frame"
+  ],
+  "response_pred": "table",
+  "prompt": "I am standing in the room with the printer on my left and the stool on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201683503,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "roomba"
+  ],
+  "response_pred": "piano",
+  "prompt": "The piano bench is on my right side and the roomba is on my left side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202016803,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "left",
+  "prompt": "I am looking at the sliding doors with the armchair situated on my right side. In which direction is the piano located?"
+ },
+ {
+  "question_id": 22060202071503,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "none"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the piano bench with the chair on my right side. How many backpacks are located behind me?"
+ },
+ {
+  "question_id": 22060202306903,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the roomba with the piano on my right. How many backpacks are to my right?"
+ },
+ {
+  "question_id": 22060202463003,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "straight ahead"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am standing with the armchair behind me and the doorframe on my left side. In which direction can I find the toolbox?"
+ },
+ {
+  "question_id": 22060202501603,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "clock"
+  ],
+  "response_pred": "piano",
+  "prompt": "I am positioned with the couch on my right and the piano on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202847603,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "roomba"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am standing with the doors on my right and the armchair on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202901203,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "piano"
+  ],
+  "response_pred": "piano,",
+  "prompt": "I am sitting on the piano bench facing the clock with the couch on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060203025203,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "piano bench",
+  "prompt": "I am facing the piano with the glass doors on my left side. What is located to my immediate right?"
+ },
+ {
+  "question_id": 22060203238403,
+  "scene_id": "scene0050_00",
+  "response_gt": [
+   "clock"
+  ],
+  "response_pred": "piano",
+  "prompt": "I notice an armchair to my right and the piano to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200037103,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am facing the bathroom vanity with the bed on my left side. What is the primary object closest to my right?"
+ },
+ {
+  "question_id": 22060200149803,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am in the center of the room with the desk on my left and the picture on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200536703,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing away from the pillows with the bed positioned on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200540803,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am standing with the vanity to my right and the bathtub to my left. What is the primary object closest in front of me?"
+ },
+ {
+  "question_id": 22060200834103,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the lamp on my right and the desk on my left. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201251503,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "left",
+  "prompt": "I am noticing the office desk in front of me while the exit door is on my right. In which direction is the bathroom located relative to my current position?"
+ },
+ {
+  "question_id": 22060201384803,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am looking at bed while the desk is located on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201398503,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the desk with a trash can on my right side. How many chairs are on my left side?"
+ },
+ {
+  "question_id": 22060201579203,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the bed with the mirror on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060201686203,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bathroom vanity"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I have the beds on my left and the entrance door on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201817103,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the lamp on my right and the desk on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201930603,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "nightstand"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the bed with the desk on my right side. What object is to my immediate left?"
+ },
+ {
+  "question_id": 22060202057303,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned with the bed on my right and the curtain on my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060202128003,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the table on my left and the closet on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202169103,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bathroom vanity"
+  ],
+  "response_pred": "sink",
+  "prompt": "I have the bathtub behind me and the door on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202187703,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "desk",
+  "prompt": "The beds are on my left side and the door is behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202227403,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am noticing the door in front of me with the closet on my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202282503,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "desk",
+  "prompt": "The desk is on my left side and the beds are to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202343203,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "black bag",
+  "prompt": "I am looking at the bags on the floor while the desk is positioned to my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202419503,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "The radiator is on my right side and the door is behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202430203,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned towards the desk while the bed is on my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202441403,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "radiator"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am looking towards the desk and chair with the bed situated on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060202441803,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "table",
+  "prompt": "I am sitting in the office chair with the radiator on my right and the table on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202589903,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "ironing board"
+  ],
+  "response_pred": "sink",
+  "prompt": "I have the bathtub on my left and the bathroom vanity on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202710903,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "nightstand"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am standing in the room with the cabinet on my left and the radiator on my right. What furniture object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202722903,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the table on my right and the bed on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202795303,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "door",
+  "prompt": "I have the door on my right side and the beds on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202872303,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am facing the table with the bed on my left side. Which direction is the desk?"
+ },
+ {
+  "question_id": 22060203019503,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the wall on my left side and a bed on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203156103,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking towards the desk while the wall is on my left. What object is located closest to my right?"
+ },
+ {
+  "question_id": 22060203218703,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am standing with the bathroom vanity on my right and the mirror on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203297803,
+  "scene_id": "scene0221_00",
+  "response_gt": [
+   "closet walls"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am standing with the bathtub to my left and the door behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200050703,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am facing the kitchen counter with the shelf on my right side. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060200092903,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "kitchen cabinet"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am positioned such that the sink is on my left and the desk is on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200114303,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the refrigerator with the breakfast bar on my left side. In which direction is the sink located?"
+ },
+ {
+  "question_id": 22060200184503,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have the chair behind me and the office chair on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200223903,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "picture"
+  ],
+  "response_pred": "table",
+  "prompt": "I am looking ahead with the couch on my right and the kitchen counter to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200225803,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am oriented towards the refrigerator with the couch located on my right. In what direction is the armchair located?"
+ },
+ {
+  "question_id": 22060200233103,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "to left of sink",
+  "prompt": "I am facing the breakfast bar with the kitchen sink on my right. In which direction is the room with more light located?"
+ },
+ {
+  "question_id": 22060200240403,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "dishwasher"
+  ],
+  "response_pred": "refrigerator",
+  "prompt": "I am facing the shelf with the kitchen island on my right. What is the name of the large rectangular object closest behind me?"
+ },
+ {
+  "question_id": 22060200262403,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "kitchen island"
+  ],
+  "response_pred": "kitchen cabinet",
+  "prompt": "I am facing the stove with the microwave on my left side. What object is located closest behind me?"
+ },
+ {
+  "question_id": 22060200554903,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "breakfast bar"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am sitting on the couch with the desk on my left and the table behind me. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200660203,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned towards the plant while noticing the couch on my right. What is the furniture item closest behind me?"
+ },
+ {
+  "question_id": 22060200748703,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "kitchen cabinets"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am standing in the kitchen with the kitchen island on my right and the stove on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200816703,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "refrigerator"
+  ],
+  "response_pred": "stove",
+  "prompt": "I am positioned such that the stove is on my right and the breakfast bar is on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201071603,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "fireplace"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I have the breakfast bar on my right and the armchair on my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201087403,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "stool"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with the refrigerator on my left and the desk on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201157603,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "stove,",
+  "prompt": "I am looking at the sink with the desk on my right. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060201233003,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am standing with the breakfast bar to my left and an armchair to my right. What piece of furniture is closest in front of me?"
+ },
+ {
+  "question_id": 22060201235403,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "one"
+  ],
+  "response_pred": "2",
+  "prompt": "The kitchen sink and two windows are to my left, with a cabinet behind me. How many windows are in front of me?"
+ },
+ {
+  "question_id": 22060201245803,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "refrigerator"
+  ],
+  "response_pred": "stove",
+  "prompt": "The stove is on my right side and the breakfast bar is on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201421803,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "stool"
+  ],
+  "response_pred": "couch",
+  "prompt": "I am oriented with the desk to my right and the refrigerator to my left. What is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060201491803,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "refrigerator"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the shelf with the couch on my right side. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060201617603,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am standing in the room with the breakfast bar on my left and an armchair on my right. What is the name of the piece of furniture closest in front of me?"
+ },
+ {
+  "question_id": 22060201630603,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "dishwasher",
+  "prompt": "I am positioned towards the sink with the kitchen counter on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201633003,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "breakfast bar"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am sitting on the couch with the shelf on my right and the window on my left. What object am I facing?"
+ },
+ {
+  "question_id": 22060201646103,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "directly in front of me"
+  ],
+  "response_pred": "facing window",
+  "prompt": "I am facing the shelf with the window on my left. In which direction is the couch located?"
+ },
+ {
+  "question_id": 22060201835303,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the picture with the refrigerator on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060201929503,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "kitchen cabinets"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the desk on my left and the couch behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202109503,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "breakfast bar"
+  ],
+  "response_pred": "closet door",
+  "prompt": "I am positioned so the closet door is on my right and the window is on my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060202212303,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "kitchen counter",
+  "prompt": "I am sitting at the breakfast bar with the kitchen counter to my left and the couch to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202258403,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "the kitchen sink and cabinets"
+  ],
+  "response_pred": "stool",
+  "prompt": "I am facing the breakfast bar with the couch to my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202389403,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with the couch to my left and the desk to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202495503,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing in the room with a refrigerator on my right and a couch on my left. What is the object closest in front of me?"
+ },
+ {
+  "question_id": 22060202692303,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the table with the couch on my left side. What seating furniture is closest to my right?"
+ },
+ {
+  "question_id": 22060202705203,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "kitchen cabinet"
+  ],
+  "response_pred": "stove,",
+  "prompt": "I am facing the sink with the kitchen island to my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202793503,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "kitchen cabinet"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have the sink to my left and the desk to my right. What major item is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060202914803,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the picture on the wall with the couch to my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060203144503,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have a desk on my right and a refrigerator on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203181703,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am facing away from the couch with the armchair on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203261203,
+  "scene_id": "scene0231_00",
+  "response_gt": [
+   "kitchen cabinets"
+  ],
+  "response_pred": "kitchen counter",
+  "prompt": "I am positioned with the couch to my right and the kitchen sink on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200009103,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "clothing rack"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am noticing the curtain in front of me with the table situated on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060200116403,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing in front of the clothing rack with the tray rack to my right. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060200327603,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "lamp"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the wall with the stand on my right side. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060200457303,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "table",
+  "prompt": "I am positioned with a stand on my right and a curtain on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200844403,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the table with the clothing rack on my right. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060201005403,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "chair",
+  "prompt": "The chair is positioned to my left and the tray rack is behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201752403,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "clothing rack"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the curtain with the table on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060201768303,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "stand"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have a tray rack on my left and a curtain on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201855103,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "tray rack"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the clothing rack with the curtain behind me. What is positioned closest to my left?"
+ },
+ {
+  "question_id": 22060202082403,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the clothing rack while the tray rack is on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202487403,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "curtain",
+  "prompt": "I am looking at the curtain with the clothing rack on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202604903,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am sitting with the chair to my left and the tray rack behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202647603,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "microwave",
+  "prompt": "I am positioned with the equipment stand on my right and the table on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202662003,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the wall with the clothing rack on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202684103,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "lamp"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the wall with the clothing rack on my right side. What object is closest on my left side?"
+ },
+ {
+  "question_id": 22060202792603,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the clothing rack on my right and the chair on my left. What object is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060203299503,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "clothing rack"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am noticing the stand in front of me with the table on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060203304803,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "lamp"
+  ],
+  "response_pred": "tray",
+  "prompt": "I am standing at the tray rack with the stand on my right and the table on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203317303,
+  "scene_id": "scene0256_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the stand on my right and the table on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200003503,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "bookshelf",
+  "prompt": "I am facing the bookshelf with the chair on my right side. What is the first object closest to my left?"
+ },
+ {
+  "question_id": 22060200090203,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am positioned so that the bookshelf is on my left and the trash can is behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200132103,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "bookshelf",
+  "prompt": "I am looking at the bookshelf with the table on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060200284303,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the pictures on my left and the chair on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200380303,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the backpack on my right and the monitors on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200472403,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am looking directly at the bookshelf with the backpack on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060200606703,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "behind me",
+  "prompt": "I am standing with the bookshelf on my right and the table with monitors on my left. In which direction is the backpack located from where I am standing?"
+ },
+ {
+  "question_id": 22060200750403,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "behind bookshelf",
+  "prompt": "I am facing the bookshelf with the monitors on my right side. In which direction is the window located?"
+ },
+ {
+  "question_id": 22060200835603,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "window",
+  "prompt": "I am looking at the table with monitors and see the wall with pictures to my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200945903,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the bookshelf with the backpack on my left. How many pictures are on the wall behind me?"
+ },
+ {
+  "question_id": 22060201226403,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "monitor"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the window with the backpack to my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201672903,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "radiator",
+  "prompt": "I am facing the window and have a table with monitors on my left. What object is closest to my right?"
+ },
+ {
+  "question_id": 22060201700603,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have a trash can on my left and a monitor on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201848103,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the trash can on my right and the table on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202061003,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am standing with the bookshelves to my left and the trash can directly behind me. How many chairs are in front of me?"
+ },
+ {
+  "question_id": 22060202245003,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "monitor"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am oriented with the window on my right and the bookshelf on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202488003,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "bookshelves"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the trash can with the backpack on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202743003,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "keyboard",
+  "prompt": "I am standing with a monitor on my right side and the window behind me. What is the object closest in front of me?"
+ },
+ {
+  "question_id": 22060202776103,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "behind me",
+  "prompt": "I am positioned facing the bookshelf with the computer monitors to my right. What is the direction of the trash can from my perspective?"
+ },
+ {
+  "question_id": 22060203030403,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the bookshelf with the monitors on my right. What is the furthest object directly behind me?"
+ },
+ {
+  "question_id": 22060203272403,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the table with a wall on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060203313403,
+  "scene_id": "scene0300_00",
+  "response_gt": [
+   "monitors"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the bookshelf with the window behind me. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200158603,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the window with the bed positioned on my left side. In which direction is the door located?"
+ },
+ {
+  "question_id": 22060200524403,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am looking at the desk with the closet located to my right. What major object or feature is located closest to my left?"
+ },
+ {
+  "question_id": 22060200602703,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am facing the chairs with the dresser on my left. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200859003,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking such that the desk is on my right and the bed is on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200863103,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "shoes"
+  ],
+  "response_pred": "pillow",
+  "prompt": "I am sitting on the couch with the wardrobe cabinet on my right and the calendar on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201062803,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "towards right",
+  "prompt": "I am looking towards the trash can with the couch on my right side. In which direction is the mini fridge located?"
+ },
+ {
+  "question_id": 22060201928503,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the desk on my right and the bed on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202013203,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the dresser with the wardrobe cabinet on my left side. What is the object closest behind me?"
+ },
+ {
+  "question_id": 22060202068503,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am noticing the dresser in front of me with the calendar on my left side. In which direction is the exit door?"
+ },
+ {
+  "question_id": 22060202117603,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing in the room with the mini fridge on my right and the whiteboard on my left. What is the object closest in front of me?"
+ },
+ {
+  "question_id": 22060202129903,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am standing with the couch on my right and the wardrobe cabinet on my left. What major furniture item is closest in front of me?"
+ },
+ {
+  "question_id": 22060202185503,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the dresser while noticing the calendar on my left side. In which direction is the exit door located?"
+ },
+ {
+  "question_id": 22060202334803,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "mirror",
+  "prompt": "I have the wardrobe cabinet on my right side and the calendar on my left side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202372403,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "towards desk",
+  "prompt": "I am positioned towards the desk with the dresser on my left side. In which direction is the mini fridge?"
+ },
+ {
+  "question_id": 22060202485303,
+  "scene_id": "scene0353_00",
+  "response_gt": [
+   "dresser"
+  ],
+  "response_pred": "radiator",
+  "prompt": "I am facing the window with the wardrobe cabinet on my right. What is located to my immediate left?"
+ },
+ {
+  "question_id": 22060200145103,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have the file cabinet on my left and the window on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200193403,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "papers"
+  ],
+  "response_pred": "black keyboard",
+  "prompt": "I am looking at the monitor with the window to my right side. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060200314703,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am sitting and facing the monitor with the window on my right. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060200576303,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "facing blackboard",
+  "prompt": "I am sitting with my back to the door while the window is directly in front of me. In which direction is the blackboard?"
+ },
+ {
+  "question_id": 22060200816303,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the window with the blackboard on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201188303,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "jacket and chair"
+  ],
+  "response_pred": "black computer monitor",
+  "prompt": "I am facing the desk with the door on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201214903,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the window while the blackboard is on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201218003,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "blackboard"
+  ],
+  "response_pred": "door",
+  "prompt": "I have a window on my left and a door on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201341203,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am looking at the blackboard with the desk on my left side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201350503,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the blackboard with the bookshelf on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060201398403,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "monitor"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the room with the chair on my left and the window on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201442803,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "blackboard",
+  "prompt": "I have the blackboard on my right side and the desk on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201458803,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "to right",
+  "prompt": "I am facing the blackboard on the wall with the window area to my left. In which direction is the printer located relative to my current orientation?"
+ },
+ {
+  "question_id": 22060201560703,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the room with the file cabinet on my left and the office chair on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201577303,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "clock"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the blackboard behind me and the window on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201632503,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "file cabinet",
+  "prompt": "I am positioned with a window on my right and a file cabinet on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201643703,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "to my left"
+  ],
+  "response_pred": "behind me",
+  "prompt": "I am facing the board while keeping the bookshelf on my right side. Where is the window relative to my position?"
+ },
+ {
+  "question_id": 22060201644303,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with the window on my right side and the door on my left side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201665503,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "blackboard"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am looking around with the door to my right and the window to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201894503,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "straight ahead",
+  "prompt": "I am looking at the window with the trash can on my left. In which direction is the exit door located?"
+ },
+ {
+  "question_id": 22060202125303,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "an office chair"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the blackboard on the wall while the bookshelf is on my right side. What is located to my immediate left?"
+ },
+ {
+  "question_id": 22060202360303,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "black office chair",
+  "prompt": "I am facing the blackboard with the window on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202361603,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "file cabinet",
+  "prompt": "I am facing the trash can with the window on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060202482103,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "a board and a blackboard"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing in the room with a door on my right and a window on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202713103,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "blackboard"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the door with the bookshelf on my right. What is located to my immediate left?"
+ },
+ {
+  "question_id": 22060202763003,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "yes",
+  "prompt": "The blackboard is on my left and the window is behind me. Is there a desk closest in front of me?"
+ },
+ {
+  "question_id": 22060202872603,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am sitting with the door on my right and the bookshelf directly behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203050603,
+  "scene_id": "scene0378_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "blackboard",
+  "prompt": "I have a bookshelf on my right and a blackboard on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200066303,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "jacket"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the dresser while the bed is on my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200268803,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "closet doors"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the dresser with the instrument cases on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200297703,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am looking at the bed with the dresser situated behind me. What is closest to my right?"
+ },
+ {
+  "question_id": 22060200433703,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned with the pillow on my left and the television on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200604503,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "shelf",
+  "prompt": "I am sitting on the chair with the closet doors on my right and the shelf on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200616203,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking at the desk with the dresser on my right side. What is the furniture item closest to my left?"
+ },
+ {
+  "question_id": 22060200737103,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am facing away from the door with the dresser on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200836503,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "jacket"
+  ],
+  "response_pred": "black chair",
+  "prompt": "I am positioned towards the desk while noticing the bed on my left side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200944003,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "black office chair",
+  "prompt": "I am positioned facing the desk with the door to my right side. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060201013703,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "monitor"
+  ],
+  "response_pred": "keyboard piano",
+  "prompt": "I am looking at the keyboard piano with the bed on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201038703,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "even"
+  ],
+  "response_pred": "even",
+  "prompt": "I am facing the desk with the wall on my right. Is the number of chairs behind me odd or even?"
+ },
+ {
+  "question_id": 22060201171003,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the desk on my right and the closet doors on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201272603,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am looking at the desk while the door is on my right side. What is closest on the floor to my left?"
+ },
+ {
+  "question_id": 22060201289303,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "organizer shelf"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have the bed to my left and the dresser to my right. What major furniture item is closest in front of me?"
+ },
+ {
+  "question_id": 22060201293903,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "door",
+  "prompt": "I am oriented with the wall on my left side and the dresser on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201473003,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "instrument case"
+  ],
+  "response_pred": "black chair",
+  "prompt": "I am facing the door with the monitors on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060201648703,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "in front and to my right"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am facing the desk with the bed on my left. In which direction should I head to reach the exit door?"
+ },
+ {
+  "question_id": 22060201903903,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "black office chair",
+  "prompt": "I am positioned with the desk to my right and the closet doors to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201921003,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "closet doors"
+  ],
+  "response_pred": "guitar",
+  "prompt": "I am facing the bed and can see the keyboard piano on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201939203,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am noticing the folded ladder and instrument cases in front of me, while the desk is on my left. What is currently located closest behind me?"
+ },
+ {
+  "question_id": 22060202675903,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "pillow"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the desk with the closet doors behind me. What item is sitting on the furniture located at my 10 o'clock?"
+ },
+ {
+  "question_id": 22060202907203,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am sitting with the entrance door on my right side and the closet doors on my left side. Where is the bed located relative to me?"
+ },
+ {
+  "question_id": 22060203088303,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "organizer shelf"
+  ],
+  "response_pred": "black office chair",
+  "prompt": "I am facing the monitors with the organizer shelf on my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060203221203,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "jacket"
+  ],
+  "response_pred": "suitcase",
+  "prompt": "I have the bed on my left and the door on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203230503,
+  "scene_id": "scene0426_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the dresser and TV while noticing the desk and monitors on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200044203,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am currently facing the bookshelf, with the desk located directly behind me. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060200055103,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking at the bookshelf with the mat on my right side. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060200627303,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "black chair",
+  "prompt": "I have a desk on my right and a chair behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200756703,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am noticing the windows in front of me with the desks to my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200809803,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have a desk to my right and a bookshelf to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201216603,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "jacket"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am standing and looking at the windows while noticing the desk on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201498703,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have a power outlet on my right side and a shelf on my left side. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201607703,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "straight ahead"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am standing with the bookshelf on my right and the desk on my left. In what direction is the jacket located relative to my position?"
+ },
+ {
+  "question_id": 22060201800403,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am positioned towards the desk, keeping the window at the far end to my right. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060201907103,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing a direction with the desk on my right and the bookshelf on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202133003,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the chair with the power outlet on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202378903,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the cabinet and desk, noticing the window on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202469003,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned with the window on my right side and the desk directly behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202517203,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "left",
+  "prompt": "I am facing the bookshelf with a desk positioned on my right. In which direction is the cabinet?"
+ },
+ {
+  "question_id": 22060202976903,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have a shelf to my right and a desk to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202979803,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have the window to my right and the bookshelf to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203259703,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the shelf to my right and the desk to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203290703,
+  "scene_id": "scene0535_00",
+  "response_gt": [
+   "even"
+  ],
+  "response_pred": "even",
+  "prompt": "I am standing in the room with the picture on the shelf to my left. Is the number of desks to my right odd or even?"
+ },
+ {
+  "question_id": 22060200766303,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the whiteboard to my left and the trash can to my right. What is the primary object closest in front of me?"
+ },
+ {
+  "question_id": 22060200337103,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "to left of table and chairs",
+  "prompt": "I am facing the monitor with the table and chairs on my right. Where is the trash can?"
+ },
+ {
+  "question_id": 22060200386803,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "to right",
+  "prompt": "I am facing the windows on the red wall with the whiteboard on the blue wall behind me. In which direction is the door relative to me?"
+ },
+ {
+  "question_id": 22060201195803,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "chair",
+  "prompt": "The windows are on my left and I see the monitor on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201378903,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the window with the trash can on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060201787603,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "door and trash can"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the monitor with the windows behind me. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202438003,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "table",
+  "prompt": "I am standing with the table on my left and the windows to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202575803,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "one"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the wall with the table on my left side. How many windows are to my right?"
+ },
+ {
+  "question_id": 22060202827803,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "table",
+  "prompt": "I am positioned such that the table is on my left and the window is on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203015403,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "whiteboard",
+  "prompt": "I am sitting at the table with the window on my left and the whiteboard on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203098903,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "window",
+  "prompt": "I am noticing the windows directly in front of me while the entry door is positioned to my right. What is the object closest in front of me?"
+ },
+ {
+  "question_id": 22060203328803,
+  "scene_id": "scene0578_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am sitting at the table with the windows on my left and a whiteboard on my right. What object is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200204703,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "bulletin board",
+  "prompt": "The bulletin board is on my right and the mailbox is on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200217303,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "bulletin board"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am positioned towards the mailboxes with the cabinet on my left. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060200219603,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "facing copier",
+  "prompt": "I am positioned with the copier on my right side and the window on my left. In which direction is the couch?"
+ },
+ {
+  "question_id": 22060200344803,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "paper cutter",
+  "prompt": "I have a paper cutter on my left and a box on my right. What is the object located closest in front of me?"
+ },
+ {
+  "question_id": 22060200433503,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am facing the printer and can see the fan on my right side. In which direction is the box?"
+ },
+ {
+  "question_id": 22060200656803,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "printer"
+  ],
+  "response_pred": "paper cutter",
+  "prompt": "I am looking at the paper cutter while the copier is on my left side. Which object is located to my immediate right?"
+ },
+ {
+  "question_id": 22060200697703,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "copier",
+  "prompt": "I am standing with the mailbox on my left and the bulletin board on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201247203,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "paper cutter"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the copier with the box on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060201265303,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am oriented toward the mailbox near the door with the central cabinet situated on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201438803,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned with the mailbox on my left and the couch on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201487103,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "behind"
+  ],
+  "response_pred": "to left",
+  "prompt": "I am facing the paper cutter with the printer on my right. In which direction is the mailbox?"
+ },
+ {
+  "question_id": 22060201493303,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "bulletin board"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am positioned towards the mailbox and noticing the couch on my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201646403,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "forward",
+  "prompt": "I have the mailbox on my left side and the fan behind me. Which way should I go to read the posters?"
+ },
+ {
+  "question_id": 22060201910503,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "box",
+  "prompt": "I am standing with the copier on my right and the box behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202020903,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "bulletin board"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned with the couch on my left and the cabinet on my right. What is situated closest in front of me?"
+ },
+ {
+  "question_id": 22060202061703,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "printer"
+  ],
+  "response_pred": "table",
+  "prompt": "I am facing away from the copier with the fan on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202239803,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I am facing the paper cutter with the printer on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202265003,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I have the windows on my left side and the copier behind me. In which direction is the exit door located?"
+ },
+ {
+  "question_id": 22060202422203,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "forward"
+  ],
+  "response_pred": "to right",
+  "prompt": "I am looking at the mailbox while keeping the fan on my left side. In which direction is the copier?"
+ },
+ {
+  "question_id": 22060202525603,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "mailbox"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the floor with the mailbox on my left side. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060202756103,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the mailbox and the couch is on my right side. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060202774103,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "box",
+  "prompt": "I have a printer on my left and a box on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202804803,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "behind"
+  ],
+  "response_pred": "to my left",
+  "prompt": "I am looking at the paper cutter with the printer on my right side. In which direction is the exit door relative to me?"
+ },
+ {
+  "question_id": 22060202886003,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "fan"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the couch with the copier on my right. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060202907503,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "to left",
+  "prompt": "I am facing the empty area with the couch on my right and the fan behind me. In what direction is the mailbox?"
+ },
+ {
+  "question_id": 22060203212103,
+  "scene_id": "scene0593_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "paper cutter",
+  "prompt": "I am standing in the room with the bulletin board on my right and the copier behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200018203,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "kitchen cabinets"
+  ],
+  "response_pred": "oven",
+  "prompt": "I am looking at the oven while the refrigerator is positioned directly behind me. What object is closest to my right?"
+ },
+ {
+  "question_id": 22060200261303,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "table",
+  "prompt": "I have the table on my right side and the kitchen counter on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200286903,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "dining table"
+  ],
+  "response_pred": "microwave",
+  "prompt": "I am positioned with the sink on my right side and the refrigerator behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200399103,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "dining table",
+  "prompt": "I am standing with the dining table on my left and the long wall on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200438303,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "yes",
+  "prompt": "I am sitting with the dining table directly behind me and the wall on my left. Am I currently facing the sink and faucet?"
+ },
+ {
+  "question_id": 22060200933003,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "sink"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am sitting with my back to the refrigerator while looking at the oven. What object is to my immediate right?"
+ },
+ {
+  "question_id": 22060201710403,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "chairs"
+  ],
+  "response_pred": "dining table",
+  "prompt": "I have the kitchen counter on my left and the dining table on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201785003,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned such that the refrigerator is on my right and the table is directly behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201983803,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "dining table",
+  "prompt": "The refrigerator is on my left and the dining table is on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202072203,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "kitchen cabinet",
+  "prompt": "I am sitting at the table with the kitchen counter on my left side and the oven directly behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202111203,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "behind"
+  ],
+  "response_pred": "to right of cabinet",
+  "prompt": "I am positioned with the wall on my left and the cabinet to my right. In which direction is the refrigerator located?"
+ },
+ {
+  "question_id": 22060202181303,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "stove,",
+  "prompt": "I am looking at the wall with the kitchen counter on my right side. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060202259303,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "oven cabinet"
+  ],
+  "response_pred": "dining table",
+  "prompt": "I am positioned with the dining table on my left and the sink on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202428503,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "kitchen counter",
+  "prompt": "I am standing with a chair behind me and the kitchen counter on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060202613503,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "oven"
+  ],
+  "response_pred": "kitchen counter",
+  "prompt": "I am standing with the kitchen counter on my right and the table on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202651503,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "kitchen counter",
+  "prompt": "I am standing in the room with the open floor space on my left and the kitchen counter on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202683103,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "dining table",
+  "prompt": "I am standing with the dining table on my left and an open floor area on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202900203,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "stove,",
+  "prompt": "I am standing with a wall on my right side and the kitchen counter directly behind me. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060203127203,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "yes",
+  "prompt": "I have the refrigerator on my left side and the wall on my right side. Are there any chairs closest in front of me?"
+ },
+ {
+  "question_id": 22060203136403,
+  "scene_id": "scene0607_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am facing the wall with the kitchen counter on my left side. In which direction is the dining table located?"
+ },
+ {
+  "question_id": 22060200012103,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "crib"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the armchair with the window on my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200351403,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the crib on my left side and an armchair behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201198403,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "bed",
+  "prompt": "I have the wardrobe closet on my right and the shelf on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201423803,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the crib with the shelf on my right. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060201694903,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "in front of crib",
+  "prompt": "I am looking at the wall with the shelf on my right and the crib on my left. In which direction is the lamp located?"
+ },
+ {
+  "question_id": 22060201735403,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "to right",
+  "prompt": "I have the wardrobe closet behind me and the crib on my right side. In which direction is the window located?"
+ },
+ {
+  "question_id": 22060201780203,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the crib on my right and the shelf on my left side. What object is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201827303,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "crib",
+  "prompt": "The crib is on my left side and there is a ledge to my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201863403,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "changing station",
+  "prompt": "I am noticing the crib with the shelf on my right side. What object is located closest on my left side?"
+ },
+ {
+  "question_id": 22060201885503,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "door",
+  "prompt": "I am looking toward the ball with the crib on my left. What object is closest to my right?"
+ },
+ {
+  "question_id": 22060201890703,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "dresser",
+  "prompt": "I am looking toward the crib with the chest on my right. What piece of furniture is closest to my left?"
+ },
+ {
+  "question_id": 22060201908603,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "table and curtains"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the crib and baby mobile while keeping the wardrobe closet on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201951003,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the crib with the ball on my right. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060201968503,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "ledge"
+  ],
+  "response_pred": "changing station",
+  "prompt": "I am positioned with the crib on my left and the armchair behind me. What is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060202015403,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "crib",
+  "prompt": "I am positioned with the crib on my left and the shelf on my right. What is the primary object closest in front of me?"
+ },
+ {
+  "question_id": 22060202154003,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "left",
+  "prompt": "I am looking directly at the lamp while the window is to my right. In which direction are the wall pictures located?"
+ },
+ {
+  "question_id": 22060202471003,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "curtains"
+  ],
+  "response_pred": "pictures",
+  "prompt": "I am standing with the crib on my right and the pictures on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202663003,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "dresser",
+  "prompt": "I have the crib on my left and the shelf on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202699203,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am looking at the crib while noticing the ball to my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202801203,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "crib",
+  "prompt": "I am positioned with the shelf on my right and the crib on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203006703,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "straight ahead"
+  ],
+  "response_pred": "behind armchair",
+  "prompt": "I am looking at the armchair while noticing the wall shelf is on my left side. In which direction is the window located?"
+ },
+ {
+  "question_id": 22060203209103,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "crib"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the lamp with the window to my right. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060203210903,
+  "scene_id": "scene0633_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the crib with the shelf on my right side. How many balls are behind me?"
+ },
+ {
+  "question_id": 22060200045803,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "lamp"
+  ],
+  "response_pred": "lamp",
+  "prompt": "I am facing the window with the coffee table on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200088603,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the coffee table with the beds on my left side. What is closest on the floor to my right?"
+ },
+ {
+  "question_id": 22060200129803,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "end table"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have the coffee table on my right and the curtains on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200146403,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "pillow",
+  "prompt": "I am sitting on the bed with a couch to my right and another bed behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200205803,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am standing with the cabinet on my left and the armchair on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200266503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "toilet"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I have a bed on my right side and a couch to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200276503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "couch",
+  "prompt": "I am standing with the coffee table on my left and the window behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200294703,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am sitting on an ottoman with an armchair on my right and the coffee table on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200427703,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I am oriented with the wall to my left and the end table to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200535903,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "pillow"
+  ],
+  "response_pred": "curtain",
+  "prompt": "I am looking at the window with the television on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060200714303,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned such that the suitcase is on my right and the chair is on my left. What is the name of the object closest in front of me?"
+ },
+ {
+  "question_id": 22060200727003,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "shower"
+  ],
+  "response_pred": "shower",
+  "prompt": "I am positioned towards the shower with the beds on my right side. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200736603,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "shower"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned with the bed on my right and the cabinet behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200877703,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "coffee table"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned with the cabinet on my left and the couch on my right. What object is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060200939203,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "one"
+  ],
+  "response_pred": "1",
+  "prompt": "I am standing in a room such that an armchair is to my right and a bathroom area is to my left. How many lamps are in front of me?"
+ },
+ {
+  "question_id": 22060201005203,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "shower curtain"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned with the bathroom vanity to my left and the coffee table to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201008203,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "ottoman"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing with the coffee table on my right and the beds on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201090503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the couch with the beds on my right side. How many paintings are hanging on the wall behind me?"
+ },
+ {
+  "question_id": 22060201319803,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have the curtains on my left and the coffee table on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201582003,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "toilet",
+  "prompt": "I am facing the toilet with the bathroom vanity on my left side. What object is closest to my right?"
+ },
+ {
+  "question_id": 22060201664603,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "coffee table and couch"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the cabinet on my left and the desk on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201781803,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "bathroom cabinet",
+  "prompt": "I am facing the bathroom vanity with the bed on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202224103,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "coffee table"
+  ],
+  "response_pred": "towel",
+  "prompt": "I am looking towards the shower with the lamp on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060202245603,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing with the coffee table on my right and the cabinet on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202310003,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "ottoman"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the couch with the bed on my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202386703,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "door",
+  "prompt": "I have the backpack on my right and the bathroom vanity on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202387303,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "coffee table"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned with the couch on my right and the cabinet on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202391503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "coffee table"
+  ],
+  "response_pred": "dresser",
+  "prompt": "I have the mirror on my right and the bed on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202540803,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "bag"
+  ],
+  "response_pred": "radiator",
+  "prompt": "I am facing the window with the wall lamp on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202566303,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the coffee table with the cabinet on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202611903,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "bathroom vanity"
+  ],
+  "response_pred": "bathroom vanity",
+  "prompt": "I have the toilet on my right side and the bed on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202777503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I am sitting in the armchair with the beds on my left and a couch behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202859503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "coffee table"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing with the couch on my right side and the cabinet on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203007803,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing in the middle of the room with the bed to my right and the storage cabinet to my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060203027703,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am looking towards the couch and mirror with the window located on my left. In what direction would I find the TV?"
+ },
+ {
+  "question_id": 22060203037503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "lamp"
+  ],
+  "response_pred": "couch",
+  "prompt": "I am standing between the two beds with the couch on my right and the window curtains on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203094503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "ottoman"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am sitting on the ottoman with the jacket on my left and the bed on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203099703,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the beds with the coffee table to my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060203129503,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the bed to my left and the toilet to my right. What is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060203253903,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am standing with the cabinet on my right and the armchair on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203279203,
+  "scene_id": "scene0645_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I have an armchair on my left and curtains on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200360903,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have a desk on my right and the office chairs on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200367903,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "five"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing a backpack with the wall on my right. How many computer monitors are on my left?"
+ },
+ {
+  "question_id": 22060200593603,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am positioned with the door on my right and the windows on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200628903,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with the door to my left and the window to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200689703,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "yes",
+  "prompt": "I am facing the file cabinets with the whiteboard on my left. Is there a clock on the wall closest behind me?"
+ },
+ {
+  "question_id": 22060200934903,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have the windows on my left side and the door on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201074003,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with a door on my right and a window on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201293103,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "box",
+  "prompt": "I have a keyboard to my right and a box behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201806303,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "whiteboard",
+  "prompt": "I have a whiteboard on my right and a wall on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201904903,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "forward"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am positioned toward the windows on the far wall with the office chairs on my left side. Relative to my current position, in which direction is the wall clock?"
+ },
+ {
+  "question_id": 22060202044503,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "desk or monitor"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am currently standing in the room with the wall containing the door on my left and the wall featuring the clock on my right. Which specific object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202399203,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "a desk and an office chair"
+  ],
+  "response_pred": "radiator",
+  "prompt": "I am facing an office chair while a desk with monitors is to my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060202442303,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "file cabinet"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am sitting facing the file cabinet while noticing the windows on my right side. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060202505903,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am facing the file cabinet with the window on my left side. In what direction is the whiteboard relative to my position?"
+ },
+ {
+  "question_id": 22060202767103,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "file cabinet"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned towards the whiteboard while noticing the window on my left side. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060202902103,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am looking at the wall with the window on my left and the door on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203171603,
+  "scene_id": "scene0653_00",
+  "response_gt": [
+   "whiteboard"
+  ],
+  "response_pred": "monitor",
+  "prompt": "I am situated with a desk divider on my right and a clock on my left. What is the object closest in front of me?"
+ },
+ {
+  "question_id": 22060200150403,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "towards door",
+  "prompt": "I am looking towards the bookshelf with the door on my right side. Which way should I go to pick up the telephone?"
+ },
+ {
+  "question_id": 22060200410203,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "books",
+  "prompt": "I am facing the bookshelf with the file cabinet on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200450803,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "forward"
+  ],
+  "response_pred": "forward",
+  "prompt": "I have the desk on my left side and the bookshelf behind me. Which direction should I walk to reach the window?"
+ },
+ {
+  "question_id": 22060200487003,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "clothing"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am sitting in the armchair with the backpack on my left side and the desk on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200715403,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "chair with backpack"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am sitting in the armchair with the whiteboard on my left and the desk on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201223503,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "towards door",
+  "prompt": "I am positioned towards the clothing with the door on my right side. In what direction is the whiteboard located?"
+ },
+ {
+  "question_id": 22060201241903,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "armchair",
+  "prompt": "The armchair is on my right and the door is on my left. What is the primary object closest in front of me?"
+ },
+ {
+  "question_id": 22060201420203,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am oriented such that the desk is to my left and the whiteboard is to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201641803,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have the whiteboard on my right and the desk on my left. What major object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201679703,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned towards the cabinet with the door on my left side. What object is located closest behind me?"
+ },
+ {
+  "question_id": 22060201860903,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the bookshelf with the file cabinet on my left. What object is located closest to my right?"
+ },
+ {
+  "question_id": 22060202210903,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the armchair with the whiteboard on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202351903,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "clothing"
+  ],
+  "response_pred": "black chair",
+  "prompt": "I am positioned with the backpack on my left and the desk on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202355803,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "clothing"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing away from the window with a desk on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202389703,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "straight ahead",
+  "prompt": "I am facing the armchair with the bookshelf on my right side. In which direction can I find the door?"
+ },
+ {
+  "question_id": 22060202811403,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing in front of the armchair with the window on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202825603,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "headphones"
+  ],
+  "response_pred": "backpack",
+  "prompt": "I am noticing the door in front of me while sitting in the armchair with the whiteboard on my left side. What item is located closest on the floor to my right?"
+ },
+ {
+  "question_id": 22060203155403,
+  "scene_id": "scene0700_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the bookshelf with the door on my right. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060200102103,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "toilet",
+  "prompt": "I am facing the sink with the door on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060200123703,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "toilet",
+  "prompt": "I am facing the bed and wardrobe with the sink and bathtub on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060200237103,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the curtains with the suitcase on my right and the wardrobe behind me. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060200307303,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the door with the toilet on my left side. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060200555703,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am standing with the bathtub on my right and the table on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200589803,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "table",
+  "prompt": "I am standing with the table on my right side and the toilet on my left side. What is the main object closest in front of me?"
+ },
+ {
+  "question_id": 22060200642203,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing in the room with the bed on my left side and the desk on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200758403,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "pillow"
+  ],
+  "response_pred": "door",
+  "prompt": "I have the door on my right and the curtains on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201010103,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the wall with the bathroom door on my left. In which direction is the main exit door?"
+ },
+ {
+  "question_id": 22060201018603,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am noticing the bathroom sink ahead of me while the bed is on my left side. How many backpacks are in front of me?"
+ },
+ {
+  "question_id": 22060201247403,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned with the wardrobe on my right and the desk on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201376603,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I am positioned towards the door with the desk on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201595403,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "curtains"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am facing the curtains with the wardrobe on my right. What major object or feature is located closest to my left?"
+ },
+ {
+  "question_id": 22060201729403,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "curtains"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the wardrobe with the bed to my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060201861203,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "door",
+  "prompt": "I am standing with the mat on my right and the door on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201872003,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking towards the chair and desk with the bed on my right and the door to my back. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202389303,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "in front"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am standing with the table on my right and the entry door on my left. Which direction is the bathtub?"
+ },
+ {
+  "question_id": 22060202596603,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "backward"
+  ],
+  "response_pred": "in front of curtains",
+  "prompt": "I am looking at the\u00a0curtains\u00a0with wardrobe\u00a0to my right. Where is the chair?"
+ },
+ {
+  "question_id": 22060202694203,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am facing the wardrobe with the bed on my right. In which direction is the bathtub located?"
+ },
+ {
+  "question_id": 22060202778703,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the bed and wardrobe with the bathtub and toilet on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202797003,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "mirror",
+  "prompt": "I have a table on my left and a sink on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203028403,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "curtains"
+  ],
+  "response_pred": "door",
+  "prompt": "I have the curtains on my right and the door to the hallway on my left. What object is closest in front of me\uff1f"
+ },
+ {
+  "question_id": 22060203190403,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "curtains"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the clothes with the desk on my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060203334503,
+  "scene_id": "scene0046_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the wardrobe with the table on my right and the desk in front of me. What object is situated closest in front of me?"
+ },
+ {
+  "question_id": 22060200041503,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am positioned such that the storage shelf is on my right and the window is on my left. In which direction is the bookshelf located?"
+ },
+ {
+  "question_id": 22060200044903,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "shoes"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am looking at the room with the doors on my right and the couch on my left side. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200099503,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am looking at the window while the coffee table is located to my right. In which direction should I move to reach the bag near the shelf?"
+ },
+ {
+  "question_id": 22060200225603,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "doors"
+  ],
+  "response_pred": "shelf",
+  "prompt": "I am facing the shoe rack with the doors on my right. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060200235203,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I am facing the couch with the armchair on my left side. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060200238703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "back",
+  "prompt": "I am facing the curtains with the coffee table to my left. In which direction is the shelf located?"
+ },
+ {
+  "question_id": 22060200255103,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "none"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the window with the armchair on my right side. How many blankets are to my right?"
+ },
+ {
+  "question_id": 22060200384003,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I have an armchair on my right and a window on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200491903,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "door",
+  "prompt": "I am positioned looking at the armchair with the wall on my left side. What item or structure is located closest to my right?"
+ },
+ {
+  "question_id": 22060200714903,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "end table",
+  "prompt": "I am looking at the couch with the window on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060200899103,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "doors"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking toward the shelf with the doors on my left. What object is located closest behind me?"
+ },
+ {
+  "question_id": 22060200974603,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I have the bookshelf on my right and the coffee table on my left. What is the primary object closest in front of me?"
+ },
+ {
+  "question_id": 22060201056403,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "pillow",
+  "prompt": "I am facing the shelf with the window on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201095803,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing away from the pillow with the coffee table on my left side. Relative to my current position, what is the direction of the doors?"
+ },
+ {
+  "question_id": 22060201611703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "doors"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned facing the wall shelf while noticing the window on the far wall is behind me. What is closest to my right?"
+ },
+ {
+  "question_id": 22060201888503,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the couch with the shelf positioned on my left. In which direction are the exit doors located?"
+ },
+ {
+  "question_id": 22060201995403,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "1"
+  ],
+  "response_pred": "2",
+  "prompt": "I am standing in the room with the coffee table to my right and the shelf to my left. How many couches are in front of me?"
+ },
+ {
+  "question_id": 22060202055003,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the shoe rack with the doors to my left. How many couches are to my right?"
+ },
+ {
+  "question_id": 22060202243203,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "curtains"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the shoe rack with the coffee table on my left. What object is located closest to my right?"
+ },
+ {
+  "question_id": 22060202298803,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "curtains"
+  ],
+  "response_pred": "couch",
+  "prompt": "I am facing the wall with the coffee table on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202341703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the shoe rack on my right and the shelf to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202476703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking at the bookshelf with the coffee table on my left side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202529703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "couch"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with a shelf on my left and the shoes on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060202675103,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "bookshelf",
+  "prompt": "I am looking at the shelf with the armchair on my right. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060202693703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "shoes"
+  ],
+  "response_pred": "pillow",
+  "prompt": "I am facing the wall while noticing the couch on my left side. What is resting on the furniture closest behind me?"
+ },
+ {
+  "question_id": 22060202696703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am looking towards the couch with the armchair on my left. What direction must I travel to reach the coffee table?"
+ },
+ {
+  "question_id": 22060202861903,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "tube"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am standing with an armchair on my right and a table on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202944403,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the shelf with the couch on my left. What is closest behind me?"
+ },
+ {
+  "question_id": 22060203043703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing with the coffee table on my left and the shelf on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203079503,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking at the shoe rack with the couch on my left. What object is closest to my right?"
+ },
+ {
+  "question_id": 22060203316703,
+  "scene_id": "scene0203_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the coffee table on my left and the shelf behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200223503,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "nightstand"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the wall with the dresser behind me. What object is located to my immediate right?"
+ },
+ {
+  "question_id": 22060200369003,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "shoes"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the bed and pillow with the desk on my right. What object is positioned closest on my left side?"
+ },
+ {
+  "question_id": 22060200501803,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am positioned with a backpack on my left and a nightstand on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200813203,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "in front of window",
+  "prompt": "I am facing the bed with the dresser on my right side. In which direction is the fan located?"
+ },
+ {
+  "question_id": 22060201042303,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "right",
+  "prompt": "I am looking at the nightstand with the door on my left side. In which direction is the shelf located?"
+ },
+ {
+  "question_id": 22060201487203,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "door",
+  "prompt": "I am standing with a mini fridge on my left and a trash can on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201717103,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "doorframe",
+  "prompt": "I am standing with the doorframe directly behind me and the dresser on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202250103,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "From my current position, there is a chair on my right and a trash can on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202403903,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "The wall with the windows is directly in front of me and the trash can is to my left. How many mini fridges are in front of me?"
+ },
+ {
+  "question_id": 22060202572003,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing away from the shelf with a closet on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202588003,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "shoes"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am positioned such that the nightstand is on my left and the window is on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202839403,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "one"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing a dresser with a mini fridge on my right. How many trash cans are on my right?"
+ },
+ {
+  "question_id": 22060202856103,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "doorframe"
+  ],
+  "response_pred": "door",
+  "prompt": "The bed is on my right side and the door is on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202895703,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the bed with a trash can to my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202984803,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have a window on my right and a mini fridge on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203285303,
+  "scene_id": "scene0222_00",
+  "response_gt": [
+   "mini fridge"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have a mini fridge to my left and a chair directly behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200277603,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "stool"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the bed on my left and the chair on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200502503,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am standing and observing the bed with the wardrobe closet on my left side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200516803,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "sink"
+  ],
+  "response_pred": "towel",
+  "prompt": "I am facing the curtain with the sink on my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060200579703,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "sink"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the dresser with the bed on my left side. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060200589403,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the wardrobe with the bathroom mirror to my left. What is located to my immediate right?"
+ },
+ {
+  "question_id": 22060200630503,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am positioned with the stool on my right and the wall on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201021103,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "in front of me"
+  ],
+  "response_pred": "in front of curtain, to right of bed",
+  "prompt": "I am facing the curtain with the open floor area on my left side. Where is the chair?"
+ },
+ {
+  "question_id": 22060201187103,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am standing with a lamp on my left and a nightstand on my right. What object is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201212403,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "door",
+  "prompt": "I am standing in the room facing the shelf with the dresser on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060201287703,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wardrobe closet"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the bed with the mirror on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201337603,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am standing with the wardrobe closet to my right and the wall to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201356103,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am standing with the chair on my right and the mirror on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201378303,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the shelf with the curtain positioned to my left side. In which direction is the bed located?"
+ },
+ {
+  "question_id": 22060201510203,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "picture"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking towards the shelf on the wall with the wardrobe closet positioned on my left. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060201514203,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am sitting on the bed facing the curtain with the wardrobe on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060201664703,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am standing with the wardrobe closet on my right and the dresser behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201712203,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "stool",
+  "prompt": "I am standing so that the stool is on my right and the curtain is on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201768703,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am looking towards the wardrobe closet with the shelf on my left. What is the object to my immediate right?"
+ },
+ {
+  "question_id": 22060202050603,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "to left of chair with pillows",
+  "prompt": "I am facing the chair with the pillows on my right side. Where is the dresser?"
+ },
+ {
+  "question_id": 22060202149603,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am standing with the mirror on my left and the curtain on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202160403,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "pillow"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am looking at the bed with the stool on my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202248803,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "shower curtain"
+  ],
+  "response_pred": "mirror",
+  "prompt": "I have the bed on my right and the mirror on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202388103,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with the dresser on my left and the chair on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202416903,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "lamp"
+  ],
+  "response_pred": "door",
+  "prompt": "I am looking at the shelf with the stool on my right side. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060202588803,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the dresser on my left and the chair on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202818303,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "nightstand"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the bed with the stool on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202825103,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I have the curtain on my right and the wardrobe on my left. How many mirrors are in front of me?"
+ },
+ {
+  "question_id": 22060202932303,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "shower curtain"
+  ],
+  "response_pred": "bathroom vanity",
+  "prompt": "I am standing with the bed on my right and the bathroom sink on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203159603,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "stool",
+  "prompt": "I am positioned with the curtain on my left and the stool on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203256703,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "table",
+  "prompt": "I am sitting on the chair with the curtain on my right and the bed on my left side. What is situated closest in front of me?"
+ },
+ {
+  "question_id": 22060203317403,
+  "scene_id": "scene0246_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am looking at the mirror with the chair on my right side. How many wardrobe closets are to my right?"
+ },
+ {
+  "question_id": 22060200301403,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the file cabinet with the counter on my left. What object is closest to my right?"
+ },
+ {
+  "question_id": 22060200364203,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "to right",
+  "prompt": "I am positioned with my back to the file cabinet while the chairs are on my left side. In which direction is the copier located relative to my position?"
+ },
+ {
+  "question_id": 22060200471903,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the long counter with the copier on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200566503,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "cabinet,",
+  "prompt": "I am facing the file cabinet with the cabinets on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060200628103,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "copier",
+  "prompt": "I have the chairs on my left and the paper cutter on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200639503,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "cabinets"
+  ],
+  "response_pred": "counter",
+  "prompt": "I am standing with the file cabinet on my right and the copier on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200679803,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "paper cutter"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I am facing the copier with the trash can on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060200821503,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "cabinets"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the wall with the boxes on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060200940903,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "paper cutter"
+  ],
+  "response_pred": "black trash can",
+  "prompt": "I am standing with the chairs on my right and the copier on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201108103,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the file cabinet with the counter on my left. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201224403,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I am positioned with a counter on my right and a trash can on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201264903,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "facing me",
+  "prompt": "I am facing the trash can with the bulletin board on my left. In which direction is the photocopier located?"
+ },
+ {
+  "question_id": 22060201303103,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "counter"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am positioned towards the copier with the bulletin board noticed on my left. What object is located closest to my right?"
+ },
+ {
+  "question_id": 22060201375903,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "cabinet,",
+  "prompt": "I am positioned with the counter on my right side and a chair behind me. What is the object closest in front of me?"
+ },
+ {
+  "question_id": 22060201595603,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "paper cutter",
+  "prompt": "I am facing the bulletin board with the broom on my right side. What is the object closest to my left?"
+ },
+ {
+  "question_id": 22060201651303,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "backward"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am facing the wall with the file cabinet on my right. In which direction should I move to reach the nearest chair?"
+ },
+ {
+  "question_id": 22060201684403,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am looking at the file cabinet and boxes while the counter is on my left side. How many chairs are on my right?"
+ },
+ {
+  "question_id": 22060201746303,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "counter",
+  "prompt": "I am standing with the counter on my right side and the chairs to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201748703,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "to right of boxes",
+  "prompt": "I am looking towards the boxes and can see the file cabinet on my left side. In which direction is the copier located?"
+ },
+ {
+  "question_id": 22060201932603,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "file cabinet"
+  ],
+  "response_pred": "boxes",
+  "prompt": "I am facing the boxes with the copier on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202137803,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "bulletin board"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I have the broom on my right side and the copier on my left side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202396203,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "paper cutter"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I have a copier on my left and a trash can behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202565903,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the paper cutter with the wall on my right side. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060202823203,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "copier",
+  "prompt": "The paper cutter is on my right and the file cabinet is directly behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202827103,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "counter",
+  "prompt": "I have the chairs on my left and the counter on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060203209303,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "copier",
+  "prompt": "I am positioned with a bulletin board on my left and a counter on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203314103,
+  "scene_id": "scene0278_00",
+  "response_gt": [
+   "copier"
+  ],
+  "response_pred": "sink",
+  "prompt": "The counter is on my right side and the chair is behind me. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200222203,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "ceiling light"
+  ],
+  "response_pred": "table",
+  "prompt": "I have the chairs to my left and the whiteboard to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200875703,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "The desk is to my right side and the wall is to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201082403,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "telephone"
+  ],
+  "response_pred": "table",
+  "prompt": "I am positioned with the cabinet on my right and the window on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201285603,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "the window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the backpack on my right and the wall on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201463403,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "to left",
+  "prompt": "I am looking towards the window with the cabinet positioned directly behind me. In which direction is the whiteboard located?"
+ },
+ {
+  "question_id": 22060201742203,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with a whiteboard on my right and a wall on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201934903,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "keyboard"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the window with the whiteboard on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202271203,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "forward"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I have the desk on my right side and the wall on my left side. In which direction is the window located?"
+ },
+ {
+  "question_id": 22060202737803,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "plant"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned so that the cabinet is on my left side and the desk is on my right side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202778503,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "whiteboard"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am facing the chair with the cabinet to my left. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202999603,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the backpack with the desk on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060203108503,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "behind chairs",
+  "prompt": "I am facing the chairs with the cabinet on my left. In which direction is the window located?"
+ },
+ {
+  "question_id": 22060203147203,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with a desk on my right side and a cabinet on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203329603,
+  "scene_id": "scene0351_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "table",
+  "prompt": "I am in the room with the whiteboard on my right and the chairs on my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200195403,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "buckets",
+  "prompt": "I have a furnace on my right and the buckets on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200373403,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "fuse box"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am looking at the side wall while the buckets are behind me. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060200473103,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "radiator",
+  "prompt": "I am positioned with the storage rack on my right and the furnace on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200509903,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "a wall"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am sitting with the fuse box to my left side and a pair of buckets directly behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200523603,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "rack",
+  "prompt": "I have the rack on my right and the furnace on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200807303,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "fire extinguisher",
+  "prompt": "I am facing the object on the wall and see the rack to my right. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060200809103,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am looking at the buckets on the floor, with the fuse box situated on my left. In which direction is the chair relative to me?"
+ },
+ {
+  "question_id": 22060201324203,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "door",
+  "prompt": "I am positioned with the furnace on my left and the wall on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201515403,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "door",
+  "prompt": "I have the furnace on my right and the buckets on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201523903,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am positioned such that the rack is on my left side and the furnace is on my right side. In which direction is the board?"
+ },
+ {
+  "question_id": 22060201531403,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "board"
+  ],
+  "response_pred": "broom",
+  "prompt": "I have the shelf on my right and the rack on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201680203,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the chair with the fuse box on my left side. In which direction should I look to find a towel?"
+ },
+ {
+  "question_id": 22060201821903,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "towel"
+  ],
+  "response_pred": "door",
+  "prompt": "I am facing the furnace with the window behind me. What is closest to my right?"
+ },
+ {
+  "question_id": 22060201824503,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "buckets"
+  ],
+  "response_pred": "door",
+  "prompt": "I am standing with the furnace on my right and the shelf behind me. What is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060201836503,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "light switch",
+  "prompt": "I am noticing the fuse box directly ahead of me with the furnace behind me. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201849603,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "door",
+  "prompt": "I am standing and facing the wall while noticing the bucket on my left side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201868003,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "yes",
+  "prompt": "I am facing the chair with the fuse box on my left. Is there a bucket on my right side?"
+ },
+ {
+  "question_id": 22060201960903,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the furnace with the towel on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202126003,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "shelf",
+  "prompt": "I am positioned towards the furnace with the shelf to my left. What is the object closest behind me?"
+ },
+ {
+  "question_id": 22060202514103,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "window"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the furnace with the towel on my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202572603,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "furnace"
+  ],
+  "response_pred": "towel",
+  "prompt": "I am positioned so that the towel is on my right and the fuse box is on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202574903,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "towel"
+  ],
+  "response_pred": "door",
+  "prompt": "I am looking towards the furnace with the crate on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202764603,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "light switch",
+  "prompt": "I am facing the fuse box with the wall directly behind me. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202978403,
+  "scene_id": "scene0377_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am sitting in the chair facing the wall with the furnace on my left side. What object is located to my immediate right?"
+ },
+ {
+  "question_id": 22060200430103,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "towards window",
+  "prompt": "I am facing the backpack with the radiator on my right side. In which direction is the bed located?"
+ },
+ {
+  "question_id": 22060200460303,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "radiator"
+  ],
+  "response_pred": "pillow",
+  "prompt": "I am facing the nightstand with the bed to my right. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060200569703,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "clothes dryer",
+  "prompt": "I am standing in the room with an ironing board on my left and a bed on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200604603,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "picture"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have a bed on my left side and a mini fridge on my right. What object is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200664503,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "picture"
+  ],
+  "response_pred": "desk",
+  "prompt": "I notice a mini fridge on my right and the bed is on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200717103,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "radiator"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the chair while the bed is on my left side. What object is closest to my right?"
+ },
+ {
+  "question_id": 22060200943403,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "to my left"
+  ],
+  "response_pred": "to left",
+  "prompt": "I am sitting on the bed facing the cabinet with the door on my right. Where is the ironing board located relative to me?"
+ },
+ {
+  "question_id": 22060201725703,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "bed",
+  "prompt": "I am facing the cabinet with the radiator to my right side. What major object is closest to my left?"
+ },
+ {
+  "question_id": 22060202007503,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "mini fridge"
+  ],
+  "response_pred": "clothes dryer",
+  "prompt": "I am positioned with the ironing board on my left and the bed on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202094003,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "no",
+  "prompt": "I am facing the backpack with the bed on my left. If I look straight ahead, am I able to see a TV?"
+ },
+ {
+  "question_id": 22060202094703,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "behind"
+  ],
+  "response_pred": "towards cabinet",
+  "prompt": "I am facing the cabinet with the picture on my left side. In which direction is the bed?"
+ },
+ {
+  "question_id": 22060202116003,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "straight ahead"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am positioned with the ironing board on my left and the radiator on my right. In which direction is the mini fridge?"
+ },
+ {
+  "question_id": 22060202133303,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "even"
+  ],
+  "response_pred": "odd",
+  "prompt": "I am facing the bed with the nightstand on my left side. Is the number of bags on my left odd or even?"
+ },
+ {
+  "question_id": 22060202219003,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "left",
+  "prompt": "I am looking at the mini fridge while the door is on my right side. In which direction is the ironing board located?"
+ },
+ {
+  "question_id": 22060202585803,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "picture"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am positioned with the bed to my left and the mini fridge to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202730603,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "clothes dryer",
+  "prompt": "I am standing with an ironing board on my left and a bed on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202976703,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the ironing board with the wall to my left side. In which direction is the exit door located?"
+ },
+ {
+  "question_id": 22060203142803,
+  "scene_id": "scene0389_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "yes",
+  "prompt": "I am looking at the television with the bed on my right side. Is there a picture on the wall closest to my right?"
+ },
+ {
+  "question_id": 22060200043203,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "backpack"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am sitting on the sofa chair looking at the mini fridge with the lamp on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060200048703,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "vanity"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am positioned with the bathtub on my right and the mini fridge on my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200133203,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "shoes"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am positioned with the vanity on my right side and the toilet behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200164603,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "suitcase"
+  ],
+  "response_pred": "toilet",
+  "prompt": "I am looking at the bathroom door with the shower on my right side. What is to my immediate left?"
+ },
+ {
+  "question_id": 22060200357503,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am facing the sofa chair with the curtains on my left side. Which direction should I move to reach the television?"
+ },
+ {
+  "question_id": 22060200403803,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "forward"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am positioned with the beds on my right and the shower curtain on my left. Which direction is the exit door?"
+ },
+ {
+  "question_id": 22060200506703,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "pillow",
+  "prompt": "I am standing with the night lamp on my left side, facing the other bed. What is the object closest behind me?"
+ },
+ {
+  "question_id": 22060200837403,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am standing with the mini fridge on my left and the bathtub on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201057403,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "curtain"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the sofa chair with the bed on my right side. What is to my immediate left?"
+ },
+ {
+  "question_id": 22060201057703,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "clothing"
+  ],
+  "response_pred": "trash can",
+  "prompt": "The mini fridge is on my right side and the trash can is on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201122903,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "office chair"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am sitting on the sofa chair with the bed to my left and the lamp to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201587003,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "toilet"
+  ],
+  "response_pred": "mirror",
+  "prompt": "I am standing with the door on my right and the bathroom vanity on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201939803,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "sink"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am positioned towards the toilet, noticing the bathroom door on my right side. What object is located at my 9 o'clock?"
+ },
+ {
+  "question_id": 22060202090603,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "no",
+  "prompt": "I am on the bed facing the office chair with the curtains on my right side. Is there a TV to my right?"
+ },
+ {
+  "question_id": 22060202355403,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am facing the sofa chair with the curtains on my left side. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202369403,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "directly behind me"
+  ],
+  "response_pred": "towards bathroom door",
+  "prompt": "I am positioned towards the bathroom door with the night lamp on my left side. In what direction is the mini fridge?"
+ },
+ {
+  "question_id": 22060202520003,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "bed"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am sitting on the sofa chair with the mini fridge on my right and the wall behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202570303,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "no",
+  "prompt": "I am facing the sofa chair with the bed to my right. Is there a mini fridge to my left?"
+ },
+ {
+  "question_id": 22060202664603,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "bathroom vanity",
+  "prompt": "I am facing the bathroom door with the bed on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202909103,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "pillows"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I have the sofa chair on my left and a door on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203118503,
+  "scene_id": "scene0435_00",
+  "response_gt": [
+   "lamp"
+  ],
+  "response_pred": "nightstand",
+  "prompt": "I am looking at the office chair with the bed on my left side. What object is located closest on my right?"
+ },
+ {
+  "question_id": 22060200054903,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "printer"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am noticing the desk in front of me while the recycling bin is to my left. What object is located closest behind me?"
+ },
+ {
+  "question_id": 22060200318003,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "three"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the shelf with the printer on my right side. How many monitors are to the left of me?"
+ },
+ {
+  "question_id": 22060200683603,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "yes"
+  ],
+  "response_pred": "no",
+  "prompt": "I am looking towards the chair with a shelf on my right side. Are there any cabinets on my right side?"
+ },
+ {
+  "question_id": 22060200871503,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am facing the printer while the wall is situated on my left side. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060200894603,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "statue",
+  "prompt": "I have a printer on my right side and the statue on my left. What is situated closest ahead of me?"
+ },
+ {
+  "question_id": 22060200924903,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am positioned with the cabinets to my right and the windows to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200966203,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "recycling bin"
+  ],
+  "response_pred": "recycling bin",
+  "prompt": "I have the statue on my left and the recycling bin on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200981103,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "to my right"
+  ],
+  "response_pred": "on top of shelf",
+  "prompt": "I am facing the desk with the recycling bin on my left. Where is the statue?"
+ },
+ {
+  "question_id": 22060201085303,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned with the desk on my right and the shelf behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201152703,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "black computer monitor",
+  "prompt": "I am looking at the shelf with the boxes positioned behind me. What object is to my immediate right?"
+ },
+ {
+  "question_id": 22060201155203,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "facing forward",
+  "prompt": "I am facing the desk while the cabinets are on my right side. In which direction are the printers?"
+ },
+ {
+  "question_id": 22060201535803,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "black rectangular computer monitor",
+  "prompt": "I have the carts on my left and the printer on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201681803,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "cabinets"
+  ],
+  "response_pred": "black computer tower",
+  "prompt": "I am staring at the monitor while the window sits to my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201728403,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "monitor",
+  "prompt": "I am facing the printer with the windows behind me. What is located closest on my left side?"
+ },
+ {
+  "question_id": 22060201902203,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "box"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing a direction where the chair is on my left and the printer is on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202285003,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "recycling bin"
+  ],
+  "response_pred": "monitor",
+  "prompt": "I am looking at the desk with the shelf on my right side. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060202463903,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "printer"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing with the scanner on my right and the desk on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202750503,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "one"
+  ],
+  "response_pred": "2",
+  "prompt": "I am looking towards the shelf with the printer on my right side. How many carts are to my right side?"
+ },
+ {
+  "question_id": 22060202869303,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the printer with the recycling bin on my right. How many carts are to my right?"
+ },
+ {
+  "question_id": 22060203113503,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "tube"
+  ],
+  "response_pred": "monitor",
+  "prompt": "In my current position, there is a desk to my right and a printer to my left. What is the farthest object directly in front of me?"
+ },
+ {
+  "question_id": 22060203138503,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "The printer is on my right and the storage cabinets are on my left. How many monitors are in front of me?"
+ },
+ {
+  "question_id": 22060203160903,
+  "scene_id": "scene0565_00",
+  "response_gt": [
+   "a cart and printers"
+  ],
+  "response_pred": "monitor",
+  "prompt": "I have a desk with a keyboard on my left and a statue on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200092203,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "desk"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I am noticing the shelf in front of me and have the door on my right side. Which major object is located closest to my left?"
+ },
+ {
+  "question_id": 22060200383303,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am oriented with the couch on my right and the bookshelf on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200474203,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am looking at a cabinet with a window on my right side. What object is located closest behind me?"
+ },
+ {
+  "question_id": 22060200476003,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "behind",
+  "prompt": "I am positioned towards the desks, noticing the couch on my left. What direction is the window relative to me?"
+ },
+ {
+  "question_id": 22060200528603,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing away from the office desks with the door on my right side. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200662203,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the desk with the couch on my left. What is the furniture closest to my right?"
+ },
+ {
+  "question_id": 22060201188103,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "black monitor",
+  "prompt": "I am looking at the shelf with the couch on my right side. What object is located closest to my left?"
+ },
+ {
+  "question_id": 22060201335103,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "bookshelf"
+  ],
+  "response_pred": "desk",
+  "prompt": "I have the door to my right and the window to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201674803,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned towards the desk while the bookshelf is located to my right. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201779603,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I am facing the trash can with the door on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201956203,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "black keyboard",
+  "prompt": "The monitor is to my left and the door is on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202083303,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "keyboard",
+  "prompt": "I am positioned with the monitors to my right and the shelf to my left. What object is situated closest in front of me?"
+ },
+ {
+  "question_id": 22060202421903,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned with the couch on my right and the door on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202485603,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am facing the bookshelf with the couch on my right side. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202668303,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "behind monitor",
+  "prompt": "I am facing the monitor with the bookshelf on my right side. In which direction is the window located?"
+ },
+ {
+  "question_id": 22060203137603,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am standing between the couch on my left and the bookshelf on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203315803,
+  "scene_id": "scene0591_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "ahead",
+  "prompt": "I am facing the shelf with the door on my right. In which direction is the window?"
+ },
+ {
+  "question_id": 22060200179503,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am looking at the dining table with the glass doors on my left side. On what side is the microwave oven?"
+ },
+ {
+  "question_id": 22060200201303,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "front",
+  "prompt": "I am facing the cabinet with the coffee table on my left side. In which direction is the microwave located?"
+ },
+ {
+  "question_id": 22060200257403,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "sink",
+  "prompt": "I am facing the refrigerator with the cabinets on my right. What object is closest to my left?"
+ },
+ {
+  "question_id": 22060201269003,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "toaster oven"
+  ],
+  "response_pred": "table",
+  "prompt": "I am facing the sofa chair with the refrigerator on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201270803,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "tray"
+  ],
+  "response_pred": "table",
+  "prompt": "I am standing in the room with the microwave and the window to my left side. What is situated closest in front of me?"
+ },
+ {
+  "question_id": 22060201384303,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have the window on my right side and the wall behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201422903,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "bag"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking at the chair while the table is on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201714203,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "table and chairs"
+  ],
+  "response_pred": "table",
+  "prompt": "A sofa chair is on my right and the cabinets are behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201853903,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "front"
+  ],
+  "response_pred": "behind me",
+  "prompt": "I have the glass doors on my right and the refrigerator on my left. Which direction is the window?"
+ },
+ {
+  "question_id": 22060201883103,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "yes"
+  ],
+  "response_pred": "no",
+  "prompt": "I am positioned towards the sofa chair with the dining table clearly on my left side. Is there a microwave located in front of me?"
+ },
+ {
+  "question_id": 22060201945303,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "table",
+  "prompt": "I am positioned with the table on my right and the bin on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201958903,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "cabinet",
+  "prompt": "I am facing the glass doors with the cabinets on my left side. What is closest to my right?"
+ },
+ {
+  "question_id": 22060202267803,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "glass doors"
+  ],
+  "response_pred": "table",
+  "prompt": "I am positioned with the bin on my left and the table on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202269203,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "sofa chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am positioned towards the cabinet with the coffee table situated on my left. What object is closest behind me?"
+ },
+ {
+  "question_id": 22060202284903,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "bag"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the dining table with the glass doors on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202713003,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am facing the pillow with the microwave on my right. In which direction is the table located?"
+ },
+ {
+  "question_id": 22060202777603,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "sofa chair"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am looking at a sofa chair with the storage bin to my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060202846203,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "table",
+  "prompt": "I am standing in a position where a table is to my right and glass doors are to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060202869703,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "dining table"
+  ],
+  "response_pred": "kitchen cabinet",
+  "prompt": "I am facing the sofa chair with the kitchen counter on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060203226703,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "coffee maker",
+  "prompt": "I am positioned such that the glass doors are to my left and the microwave is to my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203328103,
+  "scene_id": "scene0606_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "forward",
+  "prompt": "I have the refrigerator on my left and the glass doors on my right. Which direction should I walk to reach the glass door?"
+ },
+ {
+  "question_id": 22060200008203,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "vacuum cleaner"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the vacuum cleaner with the radiator on my left. What object is located closest to my right?"
+ },
+ {
+  "question_id": 22060200072403,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "table"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the room with the door on my left and the vacuum cleaner on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200564803,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have a window on my left and a lamp on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200704903,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "right",
+  "prompt": "I am positioned facing the fireplace with the dining table on my left side. In which direction is the trash can located?"
+ },
+ {
+  "question_id": 22060200967203,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have the door on my left and the fireplace on my right. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201063703,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing in a room with the fireplace on my right and a window to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201166403,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing in the room with the radiator on my right side and the trash can on my left side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201260103,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chairs"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am looking at the window while the table with a lamp is on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060201261903,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chairs"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I have the armchairs on my left and the radiator on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201394703,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am positioned such that a chair is on my left and a door is on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201448803,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "behind"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am looking toward an armchair while the door is on my left side. In what direction is the vacuum cleaner?"
+ },
+ {
+  "question_id": 22060201734003,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am standing with my back to the trash cans and the door to my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201908303,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "left",
+  "prompt": "I am facing the window with the vacuum cleaner on my right. In which direction is the fireplace located?"
+ },
+ {
+  "question_id": 22060202312803,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am standing in the center of the room with a window and a radiator to my left and a fireplace on my right. What type of furniture is closest in front of me?"
+ },
+ {
+  "question_id": 22060202315403,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "one"
+  ],
+  "response_pred": "1",
+  "prompt": "I am facing the armchairs with the door on my right side. How many rectangular tables are currently to my right?"
+ },
+ {
+  "question_id": 22060202326703,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "forward",
+  "prompt": "I am facing the vacuum cleaner while the window is situated on my left side. In which direction should I move to reach the trash can?"
+ },
+ {
+  "question_id": 22060202474403,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the vacuum cleaner with the armchairs on my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202491203,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I have a trash can on my right and the window on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202806403,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "door"
+  ],
+  "response_pred": "window",
+  "prompt": "I am looking at the radiator with the fireplace on my right side. What is the main feature on the wall closest to my left?"
+ },
+ {
+  "question_id": 22060202833403,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "ottoman",
+  "prompt": "I am positioned with the fireplace on my left and a trash can on my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202909403,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "no"
+  ],
+  "response_pred": "yes",
+  "prompt": "I am facing the window with the fireplace on my right. Are there any pictures on the wall to my right?"
+ },
+ {
+  "question_id": 22060203121503,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the fireplace while noticing the trash can on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060203149703,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "armchairs"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing with the trash can on my right and the fireplace on my left. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060203162903,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "door",
+  "prompt": "The door is to my left and the vacuum cleaner is to my right. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060203185703,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am looking forward with a wall to my right and the table on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060203252803,
+  "scene_id": "scene0616_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have a lamp on my right side and a window on my left side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060200448503,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "left"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am positioned towards the table with the shelf on my left. In which direction is the hatrack located?"
+ },
+ {
+  "question_id": 22060201041803,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "monitor"
+  ],
+  "response_pred": "keyboard",
+  "prompt": "I have monitors to my left and a chair on my right side. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060201279703,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "whiteboards"
+  ],
+  "response_pred": "bookshelf",
+  "prompt": "I am facing a tall shelf with a door on my right. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060201425003,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "behind me",
+  "prompt": "I am facing a cabinet with a chair on my right side. In which direction is the window located?"
+ },
+ {
+  "question_id": 22060201739103,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "monitors and computer towers"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am positioned such that the window is to my right and the shelf is to my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201969603,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "shelf"
+  ],
+  "response_pred": "whiteboard",
+  "prompt": "I am positioned with whiteboards to my left and the door on my right. What is the primary object or set of objects located closest in front of me?"
+ },
+ {
+  "question_id": 22060202121303,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "desk",
+  "prompt": "I am sitting with the shelf on my left and a window on my right. What object is positioned closest in front of me?"
+ },
+ {
+  "question_id": 22060202373403,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "whiteboard",
+  "prompt": "I am facing the window with the shelf on my left. What is located closest to my right?"
+ },
+ {
+  "question_id": 22060202385903,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "trash can"
+  ],
+  "response_pred": "monitor",
+  "prompt": "I am facing the shelf with the whiteboard on my left. What main object is located closest to my right?"
+ },
+ {
+  "question_id": 22060202476903,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "to the right"
+  ],
+  "response_pred": "in front of me",
+  "prompt": "I am facing the side whiteboard with the whiteboard on my left side. In which direction is the trash can located?"
+ },
+ {
+  "question_id": 22060202787503,
+  "scene_id": "scene0644_00",
+  "response_gt": [
+   "whiteboard"
+  ],
+  "response_pred": "chair",
+  "prompt": "There are office tables to my right and a window behind me. What is located closest in front of me?"
+ },
+ {
+  "question_id": 22060200138303,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "kitchen cabinets",
+  "prompt": "I have the kitchen cabinets on my left and a chair on my right side. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200390303,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "dining table",
+  "prompt": "I am standing with the dining table on my left and the refrigerator behind me. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060200588903,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "right"
+  ],
+  "response_pred": "to right of trash can",
+  "prompt": "I am positioned with the dining table on my left side and the refrigerator behind me. Where is the recycling bin located?"
+ },
+ {
+  "question_id": 22060200967803,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "none"
+  ],
+  "response_pred": "2",
+  "prompt": "I am facing the wall with the dining table on my left side. How many recycling bins are on my right side?"
+ },
+ {
+  "question_id": 22060201225103,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "stove"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am standing facing the sink with the recycling bin on my left. What is currently closest to my right?"
+ },
+ {
+  "question_id": 22060201236703,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "refrigerator"
+  ],
+  "response_pred": "wall,",
+  "prompt": "I am noticing the recycling bin in front of me with the sink on my right. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060201347803,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "refrigerator"
+  ],
+  "response_pred": "dining table",
+  "prompt": "I have the kitchen sink on my left and the dining table on my right. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201400003,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "wall"
+  ],
+  "response_pred": "dining table",
+  "prompt": "I have the dining table on my right and the kitchen sink on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201954003,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I have a dining table on my right side and a wall on my left side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202145703,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "trash can",
+  "prompt": "I am facing the recycling bin with the kitchen sink on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202198703,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "recycling bin"
+  ],
+  "response_pred": "wall",
+  "prompt": "I am positioned towards the refrigerator with the dining table visible on my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060202448503,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "recycling bin"
+  ],
+  "response_pred": "dishwasher",
+  "prompt": "The kitchen cabinet is on my right and the refrigerator is behind me. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060202577903,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "stove"
+  ],
+  "response_pred": "kitchen cabinet",
+  "prompt": "I am facing the refrigerator with the kitchen cabinet on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060203222603,
+  "scene_id": "scene0651_00",
+  "response_gt": [
+   "back"
+  ],
+  "response_pred": "to left",
+  "prompt": "I am facing the chair with the table on my right. In which direction is the stove?"
+ },
+ {
+  "question_id": 22060200034503,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "chair",
+  "prompt": "I am facing the couch with the table on my right side. What is located closest to my left?"
+ },
+ {
+  "question_id": 22060200123903,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "zero"
+  ],
+  "response_pred": "2",
+  "prompt": "I am looking at the books and noticing the wall on my right side. How many armchairs are behind me?"
+ },
+ {
+  "question_id": 22060200966003,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am positioned towards the shelf and noticing the coffee table to my right side. What is closest behind me?"
+ },
+ {
+  "question_id": 22060201278103,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am sitting with the cabinet to my left while facing an armchair. What is the furniture closest behind me?"
+ },
+ {
+  "question_id": 22060201390303,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "book"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have an object behind me and the cabinet on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201574503,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "to my right"
+  ],
+  "response_pred": "on top",
+  "prompt": "I am facing the armchair with the cabinet on my right. In which direction are the books located?"
+ },
+ {
+  "question_id": 22060201606503,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "couch",
+  "prompt": "I am positioned with a couch on my right and a cabinet on my left. What is closest in front of me?"
+ },
+ {
+  "question_id": 22060201639703,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "couch",
+  "prompt": "I have the coffee table on my right and the cabinet on my left. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201665103,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "backward"
+  ],
+  "response_pred": "ahead",
+  "prompt": "I am standing with the shelf on my left and the couch on my right. In which direction is the long cabinet located?"
+ },
+ {
+  "question_id": 22060201786603,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "book"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing in the room with the shelf on my left side and the cabinet on my right side. What object is closest in front of me?"
+ },
+ {
+  "question_id": 22060201889803,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am looking at the book with the coffee table on my left side. What is located closest behind me?"
+ },
+ {
+  "question_id": 22060201998603,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "cabinet"
+  ],
+  "response_pred": "chair,",
+  "prompt": "I am facing a chair with the coffee table on my right. What is closest to my left?"
+ },
+ {
+  "question_id": 22060202075403,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "table",
+  "prompt": "I am standing with a cabinet on my left and a couch on my right. What is situated closest in front of me?"
+ },
+ {
+  "question_id": 22060202154903,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "armchair"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am facing the chairs with the cabinet on my left. If I turn around to face the opposite direction, what object will be closest in front of me?"
+ },
+ {
+  "question_id": 22060202644903,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "coffee table"
+  ],
+  "response_pred": "armchair",
+  "prompt": "I am facing the armchair with the cabinet on my left. What is closest to my right?"
+ },
+ {
+  "question_id": 22060203097003,
+  "scene_id": "scene0690_00",
+  "response_gt": [
+   "chair"
+  ],
+  "response_pred": "coffee table",
+  "prompt": "I am standing with the cabinet on my left and a coffee table on my right. What is closest in front of me?"
+ }
+]

@@ -10,6 +10,13 @@ upstream script runs over every SceneVerse HM3D region), and the CLIP / SharedAr
 that the distill path never uses are not needed.
 
     python extra_eval/openscene_features.py --anno data/SceneVerse/HM3D/annotations/qa/val.json
+
+``--pcds`` instead processes the given SceneVerse-format point clouds (ScanNet / MultiScan
+``pcd_with_global_alignment/<scan>.pth``, 3RScan ``<scan>/pcd-align.pth``; tuples whose first two
+entries are xyz and rgb 0..255 and whose last is the instance labels), each saved as
+``<out>/<scan>.pth``:
+
+    python extra_eval/openscene_features.py --pcds .../scene0011_00.pth ... --out .../ScanNet
 """
 
 import argparse
@@ -47,7 +54,8 @@ def regions(anno_files):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--anno", nargs="+", required=True, help="XR annotation json(s) (scan -> episodes)")
+    ap.add_argument("--anno", nargs="+", help="XR annotation json(s) (scan -> episodes)")
+    ap.add_argument("--pcds", nargs="+", help="SceneVerse-format point cloud files (instead of --anno)")
     ap.add_argument("--scan_data", default="data/SceneVerse/HM3D/scan_data/pcd_with_global_alignment")
     ap.add_argument("--ckpt", default="ckpts/scannet_openseg.pth.tar")
     ap.add_argument("--out", default="data/SceneVerse/OpenScene_Scan_Features/HM3D")
@@ -62,16 +70,22 @@ def main():
     torch.backends.cudnn.enabled = False
     vox = Voxelizer(voxel_size=0.02, clip_bound=None, use_augmentation=False)
 
-    todo = regions(args.anno)
+    assert bool(args.anno) != bool(args.pcds), "give --anno or --pcds"
+    if args.anno:
+        todo = [(r, os.path.join(args.scan_data, f"{r}.pth")) for r in regions(args.anno)]
+    else:  # 3RScan: <scan>/pcd-align.pth, otherwise <scan>.pth
+        todo = sorted((os.path.basename(os.path.dirname(p)) if os.path.basename(p) == "pcd-align.pth"
+                       else os.path.basename(p)[:-len(".pth")], p) for p in args.pcds)
     i, n = map(int, args.shard.split("/"))
     todo = todo[i::n]
     os.makedirs(args.out, exist_ok=True)
     print(f"{len(todo)} regions (shard {args.shard})", flush=True)
-    for k, name in enumerate(todo):
+    for k, (name, src) in enumerate(todo):
         dst = os.path.join(args.out, f"{name}.pth")
         if os.path.exists(dst):
             continue
-        locs_in, feats_in, labels_in = torch.load(os.path.join(args.scan_data, f"{name}.pth"), weights_only=False)
+        pcd = torch.load(src, weights_only=False)
+        locs_in, feats_in, labels_in = pcd[0], pcd[1], pcd[-1]
         if labels_in is None:
             labels_in = np.zeros_like(locs_in[:, 0])
         locs, feats, _, inds_reverse, _ = vox.voxelize(locs_in, feats_in, labels_in, return_ind=True)
