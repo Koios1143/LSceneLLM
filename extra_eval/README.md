@@ -100,7 +100,10 @@ them (`extra_eval/infer.py` documents every choice):
   Check against the repository's decoder: in fp32, 80/80 outputs are identical (40 Scan2Cap,
   40 ScanQA). Under fp16 autocast, 59/60 are identical; the one difference is a near-tie on the
   first token. The QA step drops from 1.29 to 0.23 s per question. The whole run takes about 25
-  minutes on 2 GPUs.
+  minutes on 2 GPUs. A full run with the repository's decoder (3 h 53 min) gives the same
+  output for 99.0% of Scan2Cap objects (2047/2068), 99.8% of ScanQA (4666/4675), 99.9% of
+  SQA3D (3514/3519) and Real-3DQA debiased (1484/1485), and 100% of Real-3DQA rotation and
+  Beacon3D QA.
 
 ## Results (FAST decoding)
 
@@ -141,8 +144,15 @@ Real-3DQA (official scripts, [`results/real3dqa/`](results/real3dqa)):
 |---|---:|---:|---:|---:|---:|
 | | 42.27 | 9.47 | 1.60 | 0.27 | 13.40 |
 
-**Beacon3D QA:** inference is done. Scoring is pending because the GPT judge
-(gpt-4o-mini-2024-07-18) is blocked: the OpenAI account has no credits.
+Beacon3D QA (judge gpt-4o-mini-2024-07-18, [`results/beacon3d_*`](results)):
+
+| Domain | Case | Object | class | appearance | geometry | spatial | existence | functionality |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ScanNet (1155) | 45.71 | 9.35 | 18.92 | 40.99 | 53.96 | 48.28 | 55.92 | 33.33 |
+| 3RScan (816) | 41.18 | 4.04 | 32.61 | 30.80 | 43.64 | 45.96 | 47.39 | – |
+| MultiScan (477) | 28.93 | 3.77 | 18.15 | 27.74 | 45.83 | 24.82 | 37.29 | – |
+| pooled (2448) | 40.93 | 6.50 | 21.58 | 35.11 | 49.40 | 42.72 | 48.95 | 33.33 |
+| mean of domains | 38.61 | 5.72 | 23.22 | 33.17 | 47.81 | 39.69 | 46.87 | 33.33 |
 
 Notes:
 

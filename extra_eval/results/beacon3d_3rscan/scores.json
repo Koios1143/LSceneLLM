@@ -1,0 +1,14 @@
+{
+ "pred_dir": "eval_outputs/extra_eval_fast",
+ "qa_judge": "gpt-4o-mini-2024-07-18",
+ "case": 41.17647058823529,
+ "object": 4.044117647058823,
+ "EM": 38.72549019607843,
+ "EM-R": 41.299019607843135,
+ "class": 32.608695652173914,
+ "appearance": 30.795454545454547,
+ "geometry": 43.63636363636364,
+ "spatial": 45.96069868995634,
+ "existence": 47.39336492890995,
+ "functionality": null
+}
